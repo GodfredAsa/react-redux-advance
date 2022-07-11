@@ -13,7 +13,7 @@ const cartQuantity = useSelector(state => state.cart.totalQuantity)
     <button className={classes.button} onClick={toggleCartHandler}>
       <span>My Cart</span>
       <span className={classes.badge}>{cartQuantity}</span>
-    </button>
+    </button> 
   );
 };
 
