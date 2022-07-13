@@ -6,3 +6,5 @@
 3. Increasing the cart items
 4. Decreasing the cart items 
 5. With a hide or view cart functionality
+
+6. firebase server link:  https://console.firebase.google.com/project/react-http-redux-d3543/database/react-http-redux-d3543-default-rtdb/data/~2F
